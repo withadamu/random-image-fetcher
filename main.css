@@ -1,0 +1,29 @@
+.wrap {
+    width: 80%;
+    margin: 40px auto;
+    text-align: center;
+}
+
+.image-box {
+    margin: 20px;
+}
+
+.image-box img {
+    border: 2px solid #333;
+    height: 350px;
+}
+
+.button a {
+    color: #333;
+    border: 1px solid #333;
+    border-radius: 5px;
+    padding: 10px 30px;
+    margin: 20px 0;
+    text-decoration: none;
+    transition: all .5s;
+}
+
+.button a:hover {
+    background-color: #333;
+    color: #fff;
+}
